@@ -5,11 +5,11 @@
 <a href="https://www.facebook.com/profile.php?id=100001405084892">
   <img alt="guilyx's Facebook" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="https://www.linkedin.com/in/youssef-fathi-a05722179/">
-  <img align="left" alt="Fathi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/omar-benhamida-86353b121/">
+  <img align="left" alt="Benhamida's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Fathi Youssef" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Fathi Youssef" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=OmarBenhamida.OmarBenhamida)
