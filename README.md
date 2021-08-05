@@ -49,7 +49,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/452/typescript.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
