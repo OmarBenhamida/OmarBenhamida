@@ -52,7 +52,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```tex
-Angular   12 hrs 54 mins   █████████████░░░░ 51.78 % 
+Angular   12 hrs 54 mins   █████████████░░░░ 55.78 % 
 Spring          4 hrs 57 mins   ███████▒░░░░28.79 % 
 Laravel        2 hrs 57 mins   ████▒░░░░░░ 17.22 % 
 Other        30 mins         ▒░░░░░░░░░ 01.17 % 
@@ -66,7 +66,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
+🏆  9,807 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 642 tasks so far           
 ⏳  Longest streak is 10 days
