@@ -41,23 +41,23 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/340/226/png-clipart-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-dot-net-1-1175179.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/452/spring-logo.png"></code>
+<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png"></code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/452/typescript.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```tex
-Java   8 hrs 54 mins   █████████████░░░░ 51.78 % 
-PHP          4 hrs 57 mins   ███████▒░░░░28.79 % 
-c++         2 hrs 57 mins   ████▒░░░░░░ 17.22 % 
-Other        12 mins         ▒░░░░░░░░░ 01.17 % 
+Angular   12 hrs 54 mins   █████████████░░░░ 51.78 % 
+Spring          4 hrs 57 mins   ███████▒░░░░28.79 % 
+Laravel        2 hrs 57 mins   ████▒░░░░░░ 17.22 % 
+Other        30 mins         ▒░░░░░░░░░ 01.17 % 
 JSON         10 mins         ▒░░░░░░░░░░░ 01.04 % 
 ```
 <!--END_SECTION:waka-->
